@@ -20,6 +20,7 @@
 * [go-starter-kit](https://github.com/olebedev/go-starter-kit) (hot reloadable golang/react/flummox/css-module isomorphic starter kit)
 * [react-fullstack-skeleton](https://github.com/fortruce/react-fullstack-skeleton) (react w/ backend api server)
 * [react-cordova-boilerplate](https://github.com/yuvalsaraf/react-cordova-boilerplate) (react with react-router, redux, hot loader and server-rendering for cordova)
+* [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 
 Don't be shy, add your own.
 
